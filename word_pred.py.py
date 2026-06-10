@@ -10,7 +10,7 @@ import numpy as np
 
 
 # %%
-df=pd.read_csv('/content/qoute_dataset.csv')
+df = pd.read_csv('qoute_dataset.csv')
 
 # %%
 df.head()
